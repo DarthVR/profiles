@@ -1,0 +1,1 @@
+SML.di("./app-selector-client-js-9964d0b0.js",import.meta.url,"appselectorclientjs9964d0b0");SML.di("./shell-e48e5956.js",import.meta.url,"shelle48e5956");SML.di("./icon-c33661e6.js",import.meta.url,"iconc33661e6");SML.di("./TinyGesture-26737d23.js",import.meta.url,"TinyGesture26737d23");
